@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore PyCharm files
+.idea/
+nes/
+*.nes
